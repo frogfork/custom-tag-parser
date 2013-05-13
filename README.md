@@ -1,3 +1,19 @@
+# Installing
+
+- Install [Composer](http://getcomposer.org)
+
+- Add `radmen/custom-tag-parser` to your project's `composer.json:
+
+```json
+{
+    "require": {
+        "radmen/custom-tag-parser": "dev-master"
+    }
+}
+```
+
+- Install/update your dependencies
+
 # Example
 
 ```php

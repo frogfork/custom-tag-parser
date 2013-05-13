@@ -1,6 +1,6 @@
 {
     "name": "radmen/custom-tag-parser",
-    "description": "",
+    "description": "Simple parser for custom tags",
     "authors": [
         {
             "name": "Radoslaw Mejer",
