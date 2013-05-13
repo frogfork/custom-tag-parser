@@ -1,6 +1,7 @@
 {
     "name": "radmen/custom-tag-parser",
     "description": "Simple parser for custom tags",
+    "license": "MIT",
     "authors": [
         {
             "name": "Radoslaw Mejer",
