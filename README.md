@@ -18,7 +18,7 @@
 
 ```php
 <?php
-$parser = new Parser('<fizz i="3"> <fizz i="5" /> <fizz i="15">');
+$parser = new CustomTagParser\Parser('<fizz i="3"> <fizz i="5" /> <fizz i="15">');
 
 foreach($parser->tags('fizz') as $tag) {
 
